@@ -1,14 +1,7 @@
-# lib_b
+# Lib B of the Dependency Manager Article
 
-A new Flutter package project.
-
-## Getting Started
-
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+[app_a](https://github.com/Vanethos/dm_app_a)
+[lib_a](https://github.com/Vanethos/dm_lib_a)
+[lib_b](https://github.com/Vanethos/dm_lib_b)
+[lib_c](https://github.com/Vanethos/dm_lib_c)
+[dependency_manager](https://github.com/Vanethos/dm_dependency_manager)
