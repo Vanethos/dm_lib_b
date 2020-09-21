@@ -60,6 +60,15 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  lib_c:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: git_reference_tag
+      resolved-ref: f142ca28b9540cc266fefe304f076e70c4c2ff9f
+      url: "https://github.com/Vanethos/dm_lib_c.git"
+    source: git
+    version: "0.0.1"
   matcher:
     dependency: transitive
     description:
