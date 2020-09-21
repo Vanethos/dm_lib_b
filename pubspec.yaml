@@ -11,6 +11,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  
+  lib_c:
+    path: ./dm_lib_c
 
 dev_dependencies:
   flutter_test:

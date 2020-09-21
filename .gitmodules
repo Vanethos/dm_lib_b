@@ -1,0 +1,3 @@
+[submodule "dm_lib_c"]
+	path = dm_lib_c
+	url = https://github.com/Vanethos/dm_lib_c.git
