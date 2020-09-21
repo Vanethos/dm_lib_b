@@ -12,6 +12,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  lib_c:
+    path: ../lib_c
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
